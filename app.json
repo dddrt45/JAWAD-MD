@@ -1,13 +1,13 @@
 {
-  "name": "JAWAD-MD",
-  "description": "I am JAWAD-MD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
-  "logo": "https://raw.githubusercontent.com/JawadYTX/KHAN-DATA/refs/heads/main/logo/KHAN.png",
+  "name": "evil-MD",
+  "description": "I am Moiz-MD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
+  "logo": "https://raw.githubusercontent.com/JawadYTX/KHAN-DATA/refs/heads/main/logo/evil.png",
   "keywords": ["JAWAD-MD"],
-  "repository": "https://github.com/JawadYTX/JAWAD-MD",
+  "repository": "https://github.com/JawadYTX/evil_MD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "KHAN-MD~nm52hagb#2Go55JFNOQIb8NuZxo1TJXtEibMxjFiZLajNVf_PEFk",
       "required": true,
       "value": ""
     },
