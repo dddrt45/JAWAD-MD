@@ -1,7 +1,7 @@
 <h1 align="center"> JAWAD-MD V-1.0 </h1>
 
 <p align="center">
-  <a href="https://github.com/JawadYTX"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=JAWAD-MD-+v1.0+MultiDevice;Developed+by+JawadYTX;Give+star+and+forks+this+Repo+🌟" alt="JawadYTXReadme"></a>
+  <a href="https://github.com/evil_TX"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=JAWAD-MD-+v1.0+MultiDevice;Developed+by+JawadYTX;Give+star+and+forks+this+Repo+🌟" alt="JawadYTXReadme"></a>
 </p>
 
 <details>
@@ -18,8 +18,6 @@
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<a><img src='https://files.catbox.moe/pf270b.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
