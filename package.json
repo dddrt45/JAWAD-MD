@@ -1,16 +1,16 @@
 {
-  "name": "JAWAD-MD",
+  "name": "evil-MD",
   "version": "10.8.1",
-  "description": "JAWAD-MD latest multi device whatsapp bot",
+  "description": "evil-MD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name JAWAD-MD",
-    "stop": "pm2 stop JAWAD-MD",
-    "restart": "pm2 restart JAWAD-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name evil-MD",
+    "stop": "pm2 stop evil-MD",
+    "restart": "pm2 restart evil-MD"
   },
-  "keywords": ["jawad-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "JawadTechX",
+  "keywords": ["evil-md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "evilorganizer",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
